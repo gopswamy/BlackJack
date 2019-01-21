@@ -1,6 +1,6 @@
 # Mini-project #6 - Blackjack
 
-import simplegui
+import simpleguitk as simplegui
 import random
 
 # load card sprite - 949x392 - source: jfitz.com
